@@ -11,56 +11,56 @@
 
 ## Who We Are
 
-**The Duck Union** is a Minecraft Anarchy group dedicated to offering players uninhibited gameplay and fostering a creative community experience. We run an anarchy-style server where players are free to explore, create, grief, and innovate without constraints.
+**The Duck Union** is a Minecraft Anarchy community dedicated to offering players unrestricted gameplay and a creative community experience. We run an anarchy-type server where players are free to explore, build, grief, and innovate with no limitations.
 
 ---
 
 ## What You'll Find Here
 
-Browse and build upon our open‑source repositories—featuring server tools, schematics, and automation scripts:
+Explore and build in our open-source repositories—including server tools, schematics, and automation scripts:
 
-- **Schematics**: Blueprints like *Cyclone Dupe Stash*, *Cyclone AX-0100*, *AX-0200*, *AX-3020*, *AX-4050*, and more.
-- **Server Tools & Regex Snippets**: Utility scripts for hiding dupe or chat messages (e.g., `/dupe`, mob money messages).
-- **Gallery & Community Creations**: A showcase of builds and screenshots contributed by members.
+- **Schematics**: Blueprints such as *Cyclone Dupe Stash*, *Cyclone AX-0100*, *AX-0200*, *AX-3020*, *AX-4050*, and more.
+- **Server Tools & Regex Snippets**: Helper scripts to mute dupe or chat messages (e.g., `/dupe`, mob money messages).
+- **Gallery & Community Creations**: Builds and screenshots contributed by members.
 
 ---
 
 ## 🔧 Projects & Contributions
 
-Check out our repositories tab to explore individual projects—like schematics, tools, or plugins. Whether you're interested in schematics or improving chat scripting, there’s something for you.
+Come take a look in our repositories tab at individual projects—like schematics, tools, or plugins. Whether you're interested in schematics or chat scripting optimization, there's something for everyone.
 
 ---
 
 ## 📜 Terms of Service
 
-All server and website access is provided *as is*, without guarantees on uptime, security, or content accuracy. The Duck Union reserves the right to remove content at our discretion.
+All website and server access is provided *as is*, without any guarantees of uptime, security, or content accuracy. Content can be deleted at our option by the Duck Union.
 
 ---
 
 ## 🚀 Get Involved
 
-We encourage collaboration and contributions:
+Collaboration and contributions are welcome:
 
-1. Fork a project or clone locally.
+1. Fork a project or clone on your machine.
 2. Experiment with schematics, tools, or regex filters.
-3. Submit PRs to share improvements or fixes.
-4. Connect with us through GitHub, Discord, or on the server!
+3. Send in PRs to add improvements or fixes.
+4. Come talk to us on GitHub, Discord, or the server!
 
 ---
 
 ## 🙌 Support & Community
 
 - Stay up to date via [our newspaper](https://theduckunion.org/newspaper) — currently quiet.
-- Share builds using the **Gallery**.
+- Build posts utilizing the **Gallery**.
 - Propose new schematics or tooling in *Tools* or via issues.
-- Read and respect our Terms of Service.
+- Read and comply with our Terms of Service.
 
 ---
 
 ## ⚖️ License
 
-Each repository may have its own license—check inside the project folder for details.
+Each repository may have its own license—check in the project directory for details.
 
 ---
 
-**Join The Duck Union** — whether you're here to build, script, or just chaos‑craft, there’s a place for you in our federation. Dive into our repos and let’s make Minecraft more unpredictable!
+**Join The Duck Union** — whether you're here to create, write, or just chaos-craft, you have a space in our federation. Check out our repos and let's make Minecraft more unpredictable!
