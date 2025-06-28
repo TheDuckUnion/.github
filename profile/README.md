@@ -1,4 +1,4 @@
-# 🦆 The Duck Union
+# 🦆 The Duck Union - Anarchy lies in our hands.
 
 **Links:**
 
