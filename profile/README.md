@@ -5,7 +5,7 @@
 - 🌐 Website: [theduckunion.org](https://theduckunion.org)  
 - 💬 Discord: [discord.gg/5eathSqqM3](https://discord.gg/5eathSqqM3)  
 - 📝 Join Application: [forms.gle/wF6DjwdshqoPDgyUA](https://forms.gle/wF6DjwdshqoPDgyUA)  
-- 📂 GitHub Repositories: [github.com/TheDuckUnion?tab=repositories](https://github.com/TheDuckUnion?tab=repositories)  
+- 📂 GitHub Repositories: [github.com/orgs/TheDuckUnion/repositories](https://github.com/orgs/TheDuckUnion/repositories)
 
 ---
 
